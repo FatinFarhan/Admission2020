@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Admission2020/static/css/main.6ee948a9.chunk.css",
+    "main.js": "/Admission2020/static/js/main.fbac9a98.chunk.js",
+    "main.js.map": "/Admission2020/static/js/main.fbac9a98.chunk.js.map",
+    "runtime-main.js": "/Admission2020/static/js/runtime-main.ef1fcde6.js",
+    "runtime-main.js.map": "/Admission2020/static/js/runtime-main.ef1fcde6.js.map",
+    "static/js/2.4699f16f.chunk.js": "/Admission2020/static/js/2.4699f16f.chunk.js",
+    "static/js/2.4699f16f.chunk.js.map": "/Admission2020/static/js/2.4699f16f.chunk.js.map",
+    "index.html": "/Admission2020/index.html",
+    "static/css/main.6ee948a9.chunk.css.map": "/Admission2020/static/css/main.6ee948a9.chunk.css.map",
+    "static/js/2.4699f16f.chunk.js.LICENSE.txt": "/Admission2020/static/js/2.4699f16f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef1fcde6.js",
+    "static/js/2.4699f16f.chunk.js",
+    "static/css/main.6ee948a9.chunk.css",
+    "static/js/main.fbac9a98.chunk.js"
+  ]
+}
